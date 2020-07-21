@@ -2,8 +2,8 @@
 node_modules
 
 # Ignore database files
-#data/*.sqlite
-#data/*.sqlite-journal
+data/*.sqlite
+data/*.sqlite-journal
 
 # Ignore IDE files
 .vscode
