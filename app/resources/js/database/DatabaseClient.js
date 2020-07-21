@@ -10,7 +10,8 @@ function sendDatabaseRequest(route, method, callback) {
 }
 
 class DatabaseClient {
-// Implementieren Sie hier die Methoden, die sich um den entsprechenden HTTP-Request kümmern. 
+//Implementieren Sie hier die Methoden, die sich um die entsprechenden HTTP-Requests kümmern. 
+
 }
 
 

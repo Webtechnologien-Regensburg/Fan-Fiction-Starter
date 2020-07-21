@@ -1,4 +1,4 @@
-/* Das ist der Einstiegspunkt der Anwendung*/
+/* Das ist der clientseitige Einstiegspunkt der Anwendung*/
 
 import DatabaseClient from "./database/DatabaseClient.js";
 
