@@ -1,7 +1,7 @@
 {
-    "name": "kursbuch",
+    "name": "Fan Fiction Explorer",
     "version": "0.0.1",
-    "description": "A simple web application to rank and fav classes",
+    "description": "A simple web dashboard to explore randomly selected fan fiction from archiveofourown.org",
     "main": "index.js",
     "type": "module",
     "scripts": {
