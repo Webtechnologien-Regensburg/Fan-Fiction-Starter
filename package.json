@@ -1,5 +1,5 @@
 {
-    "name": "Fan Fiction Explorer",
+    "name": "FanFictionExplorer",
     "version": "0.0.1",
     "description": "A simple web dashboard to explore randomly selected fan fiction from archiveofourown.org",
     "main": "index.js",
